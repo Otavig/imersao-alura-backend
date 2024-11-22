@@ -16,12 +16,6 @@ Este projeto é um clone simplificado do Instagram, desenvolvido durante a Imers
 **Como Executar:**
 1. Inicie o servidor: `npm run start` || `npx --watch server.js`
 
-**Estrutura do Projeto:**
-* ...
-
-**Contribuições:**
-...
-
 **Autores:**
 * Otávio Garcia - Desenvolvedor Full Stack
 
